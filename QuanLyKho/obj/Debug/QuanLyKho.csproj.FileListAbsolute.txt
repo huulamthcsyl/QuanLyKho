@@ -44,3 +44,8 @@ D:\WPF\QuanLyKho\QuanLyKho\obj\Debug\InputWindow.g.cs
 D:\WPF\QuanLyKho\QuanLyKho\obj\Debug\InputWindow.baml
 D:\WPF\QuanLyKho\QuanLyKho\obj\Debug\OutputWindow.g.cs
 D:\WPF\QuanLyKho\QuanLyKho\obj\Debug\OutputWindow.baml
+D:\WPF\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.dll
+D:\WPF\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.SqlServer.dll
+D:\WPF\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.xml
+D:\WPF\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.SqlServer.xml
+D:\WPF\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_Content.g.cs
